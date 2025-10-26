@@ -5,3 +5,5 @@ command S - shrani dokument
 
 
 dopolni README
+
+"2. domača naloga"
