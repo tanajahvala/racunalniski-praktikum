@@ -65,4 +65,8 @@ div{
        .slika p:last-child{
         font-size: 0.8em;
        }
+
+       #uvod a::before{
+        content: "🔗";
+       }
     
