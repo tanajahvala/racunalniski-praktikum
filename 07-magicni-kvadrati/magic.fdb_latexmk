@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex magic"] 1763654421.68643 "magic.aux" "magic.bbl" "magic" 1763654422.21708 0
+["bibtex magic"] 1763654421.68643 "magic.aux" "magic.bbl" "magic" 1763816900.43032 0
   "./magic.bib" 1725027931 1019 99c3aefbef6333804bf69243a0c3bf27 ""
   "/usr/local/texlive/2025/texmf-dist/bibtex/bst/base/siam.bst" 1292289607 19403 812681d329611d2a1625ad7ae5186edc ""
-  "magic.aux" 1763654422.03375 3306 dd9a24834462f55456177eb124f5cc37 "pdflatex"
+  "magic.aux" 1763816900.24919 3306 dd9a24834462f55456177eb124f5cc37 "pdflatex"
   (generated)
   "magic.bbl"
   "magic.blg"
   (rewritten before read)
-["pdflatex"] 1763654421.75677 "/Users/tanajahvala/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1763654422.21719 0
-  "/Users/tanajahvala/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1763654421.02365 12898 7dcbdf634b444b085454ca129ad14e85 ""
+["pdflatex"] 1763816899.92936 "/Users/tanajahvala/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" "magic.pdf" "magic" 1763816900.43042 0
+  "/Users/tanajahvala/Desktop/racunalniski-praktikum/07-magicni-kvadrati/magic.tex" 1763816899.72539 12906 98890404af9386c0ce763dc471c26a6b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -98,9 +98,9 @@
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1762799444 3345744 78fa1c8960999133267ec67f835665ed ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "durer.png" 1725027931 49307 0cf37d3b3303edf414f776a5dffb01d2 ""
-  "magic.aux" 1763654422.03375 3306 dd9a24834462f55456177eb124f5cc37 "pdflatex"
+  "magic.aux" 1763816900.24919 3306 dd9a24834462f55456177eb124f5cc37 "pdflatex"
   "magic.bbl" 1763654421.75534 746 3d63a35ff10887d0663ad37ee7ecc628 "bibtex magic"
-  "magic.tex" 1763654421.02365 12898 7dcbdf634b444b085454ca129ad14e85 ""
+  "magic.tex" 1763816899.72539 12906 98890404af9386c0ce763dc471c26a6b ""
   "sagrada.png" 1725027931 118170 ac68d6ea46e053885b6033e7cd32be5f ""
   "slika.pdf" 1716386704 7184 4c49b0abdbf8a2d3c38cc176cac49f8d ""
   (generated)
